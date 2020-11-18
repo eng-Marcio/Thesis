@@ -1,6 +1,7 @@
 # Thesis
 
 Tool Wear Prediction Using Deep Learning Techniques on High Precision Milling Processes!
+Complete Document found at UFSC repository: https://repositorio.ufsc.br/handle/123456789/204770
 
 ## License
 

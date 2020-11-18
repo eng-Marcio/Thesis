@@ -27,11 +27,11 @@ the thesis is divided into the following chapters:
 
 4. Acquisition System Programming: Talks about Tama Client, a software solution for real time high frequency (up to 5 MHz) data acquistion. In order to fullfill the software requirements, a software project was developed. The system connects to Trialink Ring network (https://www.triamec.com/de/TAM-SDK.html) gather information comming from multiple devices and store all of it on local HDF files. Stored data went up to 5MBps including monitoring, GUI updates, integrity checking and compresssion. The software project is explained in details on the document.
 
-![alt text](https://github.com/eng-Marcio/Thesis/blob/master/Mysc/TamaClientCD.PNG?raw=true)
+![alt text](https://github.com/eng-Marcio/Thesis/blob/master/Mysc/TamaClientCD.png?raw=true)
 
 5. Data Preprocessing: Explains the microscope measurements and the codes implemented in python using mainly Numpy to pre-process the data further used to train the networks. :snake:
 
-![alt text](https://github.com/eng-Marcio/Thesis/blob/master/Mysc/vbs_tool4.PNG?raw=true)
+![alt text](https://github.com/eng-Marcio/Thesis/blob/master/Mysc/vbs_tool4.png?raw=true)
 
 6. Prediction Models: explains the algorithms, and codes used in order to train the models to infer the tool condition by observing sensor data inputs. Multiple different architectures were tested, and a new algorithm for Augmentation was proposed. At the end of this chapter, the accuracy of the networks obtained are provided.
 
